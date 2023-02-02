@@ -1,6 +1,6 @@
 // Задание A9
 
-public class MainA9 {
+public class MainA9AStar {
 
     public static void main(String[] args) {
 

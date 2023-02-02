@@ -1,6 +1,6 @@
 // Задание A7
 // Задание A8
-public class MainCat {
+public class MainA8Cat {
 
     public static void main(String[] args) {
 
