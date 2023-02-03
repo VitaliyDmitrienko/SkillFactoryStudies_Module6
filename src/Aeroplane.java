@@ -1,3 +1,5 @@
+// Задача А13
+
 public class Aeroplane extends Aircraft{
     int wingspan;
     public Aeroplane(int number, int speed, int wingspan) {

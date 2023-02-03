@@ -1,4 +1,4 @@
-// Задача А12
+// Задача А13
 
 public class MainA13 {
     public static void main(String[] args) {

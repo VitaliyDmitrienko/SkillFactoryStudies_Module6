@@ -1,3 +1,5 @@
+// Задача А13
+
 public class Helicopter extends Aircraft{
     int screwDiameter;
     int power;

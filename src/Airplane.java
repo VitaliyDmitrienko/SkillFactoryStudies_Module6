@@ -1,3 +1,5 @@
+// Задача А13
+
 public class Airplane extends Aeroplane {
     int  power;
 
