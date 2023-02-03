@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ced0cc-c7f4-469b-b78f-654e12f71550" name="Changes" comment="4th commit + A12-A13 (4*class)">
-      <change afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fiction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainA14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrintEdition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Schoolbook.java" afterDir="false" />
+    <list default="true" id="c5ced0cc-c7f4-469b-b78f-654e12f71550" name="Changes" comment="5th commit + A14 (solving the problem Book)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aeroplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aeroplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Helicopter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Helicopter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainA13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainA13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainA14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainA14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,13 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675321489157</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5th commit + A14 (solving the problem Book)">
+      <created>1675410703345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675410703345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
     <MESSAGE value="4th commit + A11 (4*class)" />
     <MESSAGE value="4th commit + A12-A13 (4*class)" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th commit + A12-A13 (4*class)" />
+    <MESSAGE value="5th commit + A14 (solving the problem Book)" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th commit + A14 (solving the problem Book)" />
   </component>
 </project>
