@@ -4,10 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ced0cc-c7f4-469b-b78f-654e12f71550" name="Changes" comment="5th commit + A14 (solving the problem Book)">
+    <list default="true" id="c5ced0cc-c7f4-469b-b78f-654e12f71550" name="Changes" comment="2nd commit">
+      <change afterPath="$PROJECT_DIR$/src/Barrack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CargoShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Designer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EpicFight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainD2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PassengerShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rifleman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShipDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Soldier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StuffControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainA14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainA14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Deposit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deposit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +46,6 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectId" id="2Kux5Mq0vK85Uy8F1ZQAUYE59pk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,30 +63,30 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainA14">
-    <configuration name="MainA11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainA11" />
+  <component name="RunManager" selected="Application.StuffControl">
+    <configuration name="EpicFight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EpicFight" />
       <module name="Module6_OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainA12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainA12" />
+    <configuration name="MainD2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainD2" />
       <module name="Module6_OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainA13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainA13" />
+    <configuration name="ShipDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShipDriver" />
       <module name="Module6_OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainA14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainA14" />
+    <configuration name="StuffControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StuffControl" />
       <module name="Module6_OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,10 +94,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainA14" />
-        <item itemvalue="Application.MainA13" />
-        <item itemvalue="Application.MainA12" />
-        <item itemvalue="Application.MainA11" />
+        <item itemvalue="Application.StuffControl" />
+        <item itemvalue="Application.EpicFight" />
+        <item itemvalue="Application.ShipDriver" />
+        <item itemvalue="Application.MainD2" />
       </list>
     </recent_temporary>
   </component>
@@ -101,35 +117,34 @@
       <option name="project" value="LOCAL" />
       <updated>1674910245577</updated>
     </task>
-    <task id="LOCAL-00002" summary="4th commit + A11 (4*class)">
-      <created>1675233532385</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1675233532385</updated>
-    </task>
-    <task id="LOCAL-00003" summary="4th commit + A12-A13 (4*class)">
-      <created>1675321489157</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1675321489157</updated>
-    </task>
-    <task id="LOCAL-00004" summary="5th commit + A14 (solving the problem Book)">
-      <created>1675410703345</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1675410703345</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
-    <MESSAGE value="4th commit + A11 (4*class)" />
-    <MESSAGE value="4th commit + A12-A13 (4*class)" />
-    <MESSAGE value="5th commit + A14 (solving the problem Book)" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th commit + A14 (solving the problem Book)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
   </component>
 </project>

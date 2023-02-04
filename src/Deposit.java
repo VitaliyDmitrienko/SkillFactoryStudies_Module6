@@ -1,5 +1,5 @@
 // Задача А11
-public class Deposit extends Account {
+public class Deposit extends Account{
 
     private int period;
     private double percent;
