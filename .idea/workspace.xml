@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5ced0cc-c7f4-469b-b78f-654e12f71550" name="Changes" comment="2nd commit">
-      <change afterPath="$PROJECT_DIR$/src/Barrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CargoShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Designer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Elf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EpicFight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MainD2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PassengerShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rifleman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShipDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StuffControl.java" afterDir="false" />
+    <list default="true" id="c5ced0cc-c7f4-469b-b78f-654e12f71550" name="Changes" comment="6th commit (19/19 100% all tasks completed A1-A14 + 5 additional)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CheckingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CheckingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Deposit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Deposit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674910245577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="6th commit (19/19 100% all tasks completed A1-A14 + 5 additional)">
+      <created>1675523006366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675523006366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
+    <MESSAGE value="6th commit (19/19 100% all tasks completed A1-A14 + 5 additional)" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th commit (19/19 100% all tasks completed A1-A14 + 5 additional)" />
   </component>
 </project>
